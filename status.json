@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:40:03",
+  "generated_at": "2026-10-07T16:50:03",
   "sites": [
     {
       "id": "reparsite",
@@ -9,9 +9,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 73.27,
-      "uptime_30j": 93.17,
-      "last_check": "2026-10-07T16:40:03",
+      "uptime_24h": 72.55,
+      "uptime_30j": 92.94,
+      "last_check": "2026-10-07T16:50:03",
       "plan": "demo"
     },
     {
@@ -22,9 +22,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 74.26,
-      "uptime_30j": 93.41,
-      "last_check": "2026-10-07T16:40:03",
+      "uptime_24h": 73.53,
+      "uptime_30j": 93.19,
+      "last_check": "2026-10-07T16:50:03",
       "plan": "demo"
     },
     {
@@ -35,9 +35,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 74.26,
-      "uptime_30j": 93.41,
-      "last_check": "2026-10-07T16:40:03",
+      "uptime_24h": 73.53,
+      "uptime_30j": 93.19,
+      "last_check": "2026-10-07T16:50:03",
       "plan": "demo"
     },
     {
@@ -48,9 +48,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 73.27,
-      "uptime_30j": 93.17,
-      "last_check": "2026-10-07T16:40:03",
+      "uptime_24h": 72.55,
+      "uptime_30j": 92.94,
+      "last_check": "2026-10-07T16:50:03",
       "plan": "demo"
     }
   ]
