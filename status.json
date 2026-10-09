@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:30:27",
+  "generated_at": "2026-10-09T22:40:26",
   "sites": [
     {
       "id": "reparsite",
@@ -7,11 +7,11 @@
       "url": "https://www.reparsite.com",
       "status": "up",
       "http": 200,
-      "response_ms": 5983,
+      "response_ms": 33477,
       "ssl_days": 61,
-      "uptime_24h": 77.78,
-      "uptime_30j": 77.0,
-      "last_check": "2026-10-09T22:30:27",
+      "uptime_24h": 78.02,
+      "uptime_30j": 77.03,
+      "last_check": "2026-10-09T22:40:26",
       "plan": "demo"
     },
     {
@@ -20,37 +20,37 @@
       "url": "https://yoga-horizon-06.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 2464,
+      "response_ms": 4417,
       "ssl_days": 51,
-      "uptime_24h": 86.67,
-      "uptime_30j": 78.31,
-      "last_check": "2026-10-09T22:30:27",
+      "uptime_24h": 86.81,
+      "uptime_30j": 78.34,
+      "last_check": "2026-10-09T22:40:26",
       "plan": "demo"
     },
     {
       "id": "fellaphone",
       "nom": "Fella Phone Academy",
       "url": "https://fellaphone-academy.fr",
-      "status": "up",
-      "http": 200,
-      "response_ms": 1293,
-      "ssl_days": 72,
-      "uptime_24h": 88.89,
-      "uptime_30j": 78.6,
-      "last_check": "2026-10-09T22:30:27",
+      "status": "down",
+      "http": null,
+      "response_ms": null,
+      "ssl_days": null,
+      "uptime_24h": 87.91,
+      "uptime_30j": 78.49,
+      "last_check": "2026-10-09T22:40:26",
       "plan": "demo"
     },
     {
       "id": "smartech",
       "nom": "Smartech Repair",
       "url": "https://smartech-repair.fr",
-      "status": "up",
-      "http": 200,
-      "response_ms": 1966,
-      "ssl_days": 83,
-      "uptime_24h": 82.22,
-      "uptime_30j": 77.58,
-      "last_check": "2026-10-09T22:30:27",
+      "status": "down",
+      "http": null,
+      "response_ms": null,
+      "ssl_days": null,
+      "uptime_24h": 81.32,
+      "uptime_30j": 77.47,
+      "last_check": "2026-10-09T22:40:26",
       "plan": "demo"
     }
   ]
