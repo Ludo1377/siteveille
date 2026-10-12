@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:30:17",
+  "generated_at": "2026-10-12T15:40:15",
   "sites": [
     {
       "id": "reparsite",
@@ -7,11 +7,11 @@
       "url": "https://www.reparsite.com",
       "status": "up",
       "http": 200,
-      "response_ms": 463,
+      "response_ms": 316,
       "ssl_days": 59,
-      "uptime_24h": 29.41,
-      "uptime_30j": 81.59,
-      "last_check": "2026-10-12T15:30:17",
+      "uptime_24h": 31.43,
+      "uptime_30j": 81.61,
+      "last_check": "2026-10-12T15:40:15",
       "plan": "demo"
     },
     {
@@ -20,11 +20,11 @@
       "url": "https://yoga-horizon-06.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 126,
+      "response_ms": 124,
       "ssl_days": 49,
-      "uptime_24h": 29.41,
-      "uptime_30j": 82.68,
-      "last_check": "2026-10-12T15:30:17",
+      "uptime_24h": 31.43,
+      "uptime_30j": 82.69,
+      "last_check": "2026-10-12T15:40:15",
       "plan": "demo"
     },
     {
@@ -33,11 +33,11 @@
       "url": "https://fellaphone-academy.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 103,
+      "response_ms": 118,
       "ssl_days": 69,
-      "uptime_24h": 32.35,
-      "uptime_30j": 82.87,
-      "last_check": "2026-10-12T15:30:17",
+      "uptime_24h": 34.29,
+      "uptime_30j": 82.89,
+      "last_check": "2026-10-12T15:40:15",
       "plan": "demo"
     },
     {
@@ -46,11 +46,11 @@
       "url": "https://smartech-repair.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 144,
+      "response_ms": 151,
       "ssl_days": 80,
-      "uptime_24h": 32.35,
-      "uptime_30j": 82.09,
-      "last_check": "2026-10-12T15:30:17",
+      "uptime_24h": 34.29,
+      "uptime_30j": 82.1,
+      "last_check": "2026-10-12T15:40:15",
       "plan": "demo"
     }
   ]
