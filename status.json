@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:00:20",
+  "generated_at": "2026-10-13T15:10:17",
   "sites": [
     {
       "id": "reparsite",
@@ -7,11 +7,11 @@
       "url": "https://www.reparsite.com",
       "status": "up",
       "http": 200,
-      "response_ms": 305,
+      "response_ms": 334,
       "ssl_days": 58,
-      "uptime_24h": 85.71,
-      "uptime_30j": 82.27,
-      "last_check": "2026-10-13T15:00:20",
+      "uptime_24h": 86.36,
+      "uptime_30j": 82.29,
+      "last_check": "2026-10-13T15:10:17",
       "plan": "demo"
     },
     {
@@ -20,11 +20,11 @@
       "url": "https://yoga-horizon-06.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 116,
+      "response_ms": 433,
       "ssl_days": 48,
-      "uptime_24h": 85.71,
-      "uptime_30j": 83.29,
-      "last_check": "2026-10-13T15:00:20",
+      "uptime_24h": 86.36,
+      "uptime_30j": 83.3,
+      "last_check": "2026-10-13T15:10:17",
       "plan": "demo"
     },
     {
@@ -35,9 +35,9 @@
       "http": 200,
       "response_ms": 120,
       "ssl_days": 68,
-      "uptime_24h": 85.71,
-      "uptime_30j": 83.47,
-      "last_check": "2026-10-13T15:00:20",
+      "uptime_24h": 86.36,
+      "uptime_30j": 83.49,
+      "last_check": "2026-10-13T15:10:17",
       "plan": "demo"
     },
     {
@@ -46,11 +46,11 @@
       "url": "https://smartech-repair.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 156,
+      "response_ms": 196,
       "ssl_days": 79,
-      "uptime_24h": 85.71,
-      "uptime_30j": 82.73,
-      "last_check": "2026-10-13T15:00:20",
+      "uptime_24h": 86.36,
+      "uptime_30j": 82.75,
+      "last_check": "2026-10-13T15:10:17",
       "plan": "demo"
     }
   ]
