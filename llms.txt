@@ -1,0 +1,25 @@
+# SiteVeille — AI Crawler Guide
+
+## À propos
+SiteVeille est un service de surveillance de sites web : détection automatique des pannes,
+contrôle de la disponibilité et des certificats SSL, avec alerte immédiate sur Telegram.
+Destiné aux commerces et indépendants qui veulent savoir tout de suite quand leur site tombe.
+
+## Offres
+- Surveillance périodique (disponibilité, temps de réponse, expiration SSL)
+- Alerte Telegram instantanée en cas de panne ou de transition d'état
+- Historique de disponibilité (30 jours)
+- Statut public en direct
+
+## Pages
+- Présentation : https://ludo1377.github.io/siteveille/
+- Statut en direct : https://ludo1377.github.io/siteveille/statut.html
+
+## Public cible
+Commerces locaux, indépendants, artisans disposant d'un site web à faire surveiller.
+
+## Marque
+Dev du Sud
+
+## Contact
+revedebiz@gmail.com
