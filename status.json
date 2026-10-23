@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:10:13",
+  "generated_at": "2026-10-23T13:20:13",
   "sites": [
     {
       "id": "reparsite",
@@ -7,11 +7,11 @@
       "url": "https://www.reparsite.com",
       "status": "up",
       "http": 200,
-      "response_ms": 291,
+      "response_ms": 252,
       "ssl_days": 48,
       "uptime_24h": 100.0,
       "uptime_30j": 88.36,
-      "last_check": "2026-10-23T13:10:13",
+      "last_check": "2026-10-23T13:20:13",
       "plan": "demo"
     },
     {
@@ -24,7 +24,7 @@
       "ssl_days": 38,
       "uptime_24h": 100.0,
       "uptime_30j": 89.29,
-      "last_check": "2026-10-23T13:10:13",
+      "last_check": "2026-10-23T13:20:13",
       "plan": "demo"
     },
     {
@@ -36,8 +36,8 @@
       "response_ms": 66,
       "ssl_days": 58,
       "uptime_24h": 100.0,
-      "uptime_30j": 89.16,
-      "last_check": "2026-10-23T13:10:13",
+      "uptime_30j": 89.17,
+      "last_check": "2026-10-23T13:20:13",
       "plan": "demo"
     },
     {
@@ -46,11 +46,11 @@
       "url": "https://smartech-repair.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 110,
+      "response_ms": 104,
       "ssl_days": 69,
       "uptime_24h": 100.0,
-      "uptime_30j": 88.99,
-      "last_check": "2026-10-23T13:10:13",
+      "uptime_30j": 89.0,
+      "last_check": "2026-10-23T13:20:13",
       "plan": "demo"
     }
   ]
