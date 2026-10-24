@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:01:02",
+  "generated_at": "2026-10-24T16:11:00",
   "sites": [
     {
       "id": "reparsite",
@@ -7,24 +7,24 @@
       "url": "https://www.reparsite.com",
       "status": "up",
       "http": 200,
-      "response_ms": 54435,
-      "ssl_days": null,
-      "uptime_24h": 98.84,
-      "uptime_30j": 88.02,
-      "last_check": "2026-10-24T16:01:02",
+      "response_ms": 26834,
+      "ssl_days": 47,
+      "uptime_24h": 98.85,
+      "uptime_30j": 88.03,
+      "last_check": "2026-10-24T16:11:00",
       "plan": "demo"
     },
     {
       "id": "yoga-horizon",
       "nom": "Yoga Horizon 06",
       "url": "https://yoga-horizon-06.fr",
-      "status": "down",
-      "http": null,
-      "response_ms": null,
+      "status": "up",
+      "http": 200,
+      "response_ms": 10561,
       "ssl_days": null,
-      "uptime_24h": 97.67,
-      "uptime_30j": 88.81,
-      "last_check": "2026-10-24T16:01:02",
+      "uptime_24h": 97.7,
+      "uptime_30j": 88.82,
+      "last_check": "2026-10-24T16:11:00",
       "plan": "demo"
     },
     {
@@ -35,9 +35,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 96.51,
-      "uptime_30j": 88.66,
-      "last_check": "2026-10-24T16:01:02",
+      "uptime_24h": 95.4,
+      "uptime_30j": 88.62,
+      "last_check": "2026-10-24T16:11:00",
       "plan": "demo"
     },
     {
@@ -48,9 +48,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 97.67,
-      "uptime_30j": 88.54,
-      "last_check": "2026-10-24T16:01:02",
+      "uptime_24h": 96.55,
+      "uptime_30j": 88.5,
+      "last_check": "2026-10-24T16:11:00",
       "plan": "demo"
     }
   ]
