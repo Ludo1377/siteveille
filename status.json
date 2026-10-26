@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:01:01",
+  "generated_at": "2026-10-26T10:11:01",
   "sites": [
     {
       "id": "reparsite",
@@ -9,22 +9,22 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 75.41,
-      "uptime_30j": 86.64,
-      "last_check": "2026-10-26T10:01:01",
+      "uptime_24h": 74.19,
+      "uptime_30j": 86.6,
+      "last_check": "2026-10-26T10:11:01",
       "plan": "demo"
     },
     {
       "id": "yoga-horizon",
       "nom": "Yoga Horizon 06",
       "url": "https://yoga-horizon-06.fr",
-      "status": "down",
-      "http": null,
-      "response_ms": null,
-      "ssl_days": null,
-      "uptime_24h": 80.33,
+      "status": "up",
+      "http": 200,
+      "response_ms": 38582,
+      "ssl_days": 35,
+      "uptime_24h": 80.65,
       "uptime_30j": 87.61,
-      "last_check": "2026-10-26T10:01:01",
+      "last_check": "2026-10-26T10:11:01",
       "plan": "demo"
     },
     {
@@ -35,22 +35,22 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 81.97,
-      "uptime_30j": 87.46,
-      "last_check": "2026-10-26T10:01:01",
+      "uptime_24h": 80.65,
+      "uptime_30j": 87.43,
+      "last_check": "2026-10-26T10:11:01",
       "plan": "demo"
     },
     {
       "id": "smartech",
       "nom": "Smartech Repair",
       "url": "https://smartech-repair.fr",
-      "status": "down",
-      "http": null,
-      "response_ms": null,
+      "status": "up",
+      "http": 200,
+      "response_ms": 23341,
       "ssl_days": null,
-      "uptime_24h": 90.16,
+      "uptime_24h": 90.32,
       "uptime_30j": 87.5,
-      "last_check": "2026-10-26T10:01:01",
+      "last_check": "2026-10-26T10:11:01",
       "plan": "demo"
     }
   ]
