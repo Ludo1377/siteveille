@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-26T11:31:01",
+  "generated_at": "2026-10-26T11:41:01",
   "sites": [
     {
       "id": "reparsite",
       "nom": "ReparSite (Ludo)",
       "url": "https://www.reparsite.com",
-      "status": "up",
-      "http": 200,
-      "response_ms": 32157,
+      "status": "down",
+      "http": null,
+      "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 68.57,
-      "uptime_30j": 86.43,
-      "last_check": "2026-10-26T11:31:01",
+      "uptime_24h": 67.61,
+      "uptime_30j": 86.4,
+      "last_check": "2026-10-26T11:41:01",
       "plan": "demo"
     },
     {
@@ -20,24 +20,24 @@
       "url": "https://yoga-horizon-06.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 39126,
+      "response_ms": 17716,
       "ssl_days": null,
-      "uptime_24h": 75.71,
+      "uptime_24h": 76.06,
       "uptime_30j": 87.47,
-      "last_check": "2026-10-26T11:31:01",
+      "last_check": "2026-10-26T11:41:01",
       "plan": "demo"
     },
     {
       "id": "fellaphone",
       "nom": "Fella Phone Academy",
       "url": "https://fellaphone-academy.fr",
-      "status": "down",
-      "http": null,
-      "response_ms": null,
+      "status": "up",
+      "http": 200,
+      "response_ms": 23773,
       "ssl_days": null,
-      "uptime_24h": 75.71,
+      "uptime_24h": 76.06,
       "uptime_30j": 87.29,
-      "last_check": "2026-10-26T11:31:01",
+      "last_check": "2026-10-26T11:41:01",
       "plan": "demo"
     },
     {
@@ -48,9 +48,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 84.29,
-      "uptime_30j": 87.36,
-      "last_check": "2026-10-26T11:31:01",
+      "uptime_24h": 83.1,
+      "uptime_30j": 87.33,
+      "last_check": "2026-10-26T11:41:01",
       "plan": "demo"
     }
   ]
