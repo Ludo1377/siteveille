@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:31:01",
+  "generated_at": "2026-10-26T14:41:01",
   "sites": [
     {
       "id": "reparsite",
@@ -9,35 +9,35 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 61.36,
-      "uptime_30j": 86.09,
-      "last_check": "2026-10-26T14:31:01",
+      "uptime_24h": 60.67,
+      "uptime_30j": 86.06,
+      "last_check": "2026-10-26T14:41:01",
       "plan": "demo"
     },
     {
       "id": "yoga-horizon",
       "nom": "Yoga Horizon 06",
       "url": "https://yoga-horizon-06.fr",
-      "status": "down",
-      "http": null,
-      "response_ms": null,
-      "ssl_days": null,
-      "uptime_24h": 72.73,
+      "status": "up",
+      "http": 200,
+      "response_ms": 32942,
+      "ssl_days": 35,
+      "uptime_24h": 73.03,
       "uptime_30j": 87.3,
-      "last_check": "2026-10-26T14:31:01",
+      "last_check": "2026-10-26T14:41:01",
       "plan": "demo"
     },
     {
       "id": "fellaphone",
       "nom": "Fella Phone Academy",
       "url": "https://fellaphone-academy.fr",
-      "status": "up",
-      "http": 200,
-      "response_ms": 30092,
+      "status": "down",
+      "http": null,
+      "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 73.86,
-      "uptime_30j": 87.16,
-      "last_check": "2026-10-26T14:31:01",
+      "uptime_24h": 73.03,
+      "uptime_30j": 87.13,
+      "last_check": "2026-10-26T14:41:01",
       "plan": "demo"
     },
     {
@@ -48,9 +48,9 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 77.27,
-      "uptime_30j": 87.12,
-      "last_check": "2026-10-26T14:31:01",
+      "uptime_24h": 76.4,
+      "uptime_30j": 87.09,
+      "last_check": "2026-10-26T14:41:01",
       "plan": "demo"
     }
   ]
