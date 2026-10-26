@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-26T12:21:01",
+  "generated_at": "2026-10-26T12:31:02",
   "sites": [
     {
       "id": "reparsite",
       "nom": "ReparSite (Ludo)",
       "url": "https://www.reparsite.com",
-      "status": "up",
-      "http": 200,
-      "response_ms": 39780,
-      "ssl_days": 45,
-      "uptime_24h": 69.33,
-      "uptime_30j": 86.42,
-      "last_check": "2026-10-26T12:21:01",
+      "status": "down",
+      "http": null,
+      "response_ms": null,
+      "ssl_days": null,
+      "uptime_24h": 68.42,
+      "uptime_30j": 86.38,
+      "last_check": "2026-10-26T12:31:02",
       "plan": "demo"
     },
     {
@@ -20,11 +20,11 @@
       "url": "https://yoga-horizon-06.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 22473,
+      "response_ms": 30779,
       "ssl_days": 35,
-      "uptime_24h": 77.33,
-      "uptime_30j": 87.49,
-      "last_check": "2026-10-26T12:21:01",
+      "uptime_24h": 77.63,
+      "uptime_30j": 87.5,
+      "last_check": "2026-10-26T12:31:02",
       "plan": "demo"
     },
     {
@@ -33,24 +33,24 @@
       "url": "https://fellaphone-academy.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 18245,
-      "ssl_days": null,
-      "uptime_24h": 77.33,
-      "uptime_30j": 87.31,
-      "last_check": "2026-10-26T12:21:01",
+      "response_ms": 18261,
+      "ssl_days": 55,
+      "uptime_24h": 77.63,
+      "uptime_30j": 87.32,
+      "last_check": "2026-10-26T12:31:02",
       "plan": "demo"
     },
     {
       "id": "smartech",
       "nom": "Smartech Repair",
       "url": "https://smartech-repair.fr",
-      "status": "down",
-      "http": null,
-      "response_ms": null,
-      "ssl_days": null,
-      "uptime_24h": 82.67,
-      "uptime_30j": 87.31,
-      "last_check": "2026-10-26T12:21:01",
+      "status": "up",
+      "http": 200,
+      "response_ms": 30400,
+      "ssl_days": 66,
+      "uptime_24h": 82.89,
+      "uptime_30j": 87.32,
+      "last_check": "2026-10-26T12:31:02",
       "plan": "demo"
     }
   ]
