@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:40:53",
+  "generated_at": "2026-11-01T21:50:53",
   "sites": [
     {
       "id": "reparsite",
@@ -7,11 +7,11 @@
       "url": "https://www.reparsite.com",
       "status": "up",
       "http": 200,
-      "response_ms": 696,
+      "response_ms": 604,
       "ssl_days": 39,
-      "uptime_24h": 91.53,
+      "uptime_24h": 91.67,
       "uptime_30j": 86.01,
-      "last_check": "2026-11-01T21:40:53",
+      "last_check": "2026-11-01T21:50:53",
       "plan": "demo"
     },
     {
@@ -22,9 +22,9 @@
       "http": 200,
       "response_ms": 161,
       "ssl_days": 88,
-      "uptime_24h": 93.22,
+      "uptime_24h": 93.33,
       "uptime_30j": 87.27,
-      "last_check": "2026-11-01T21:40:53",
+      "last_check": "2026-11-01T21:50:53",
       "plan": "demo"
     },
     {
@@ -33,11 +33,11 @@
       "url": "https://fellaphone-academy.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 281,
+      "response_ms": 200,
       "ssl_days": 49,
-      "uptime_24h": 93.22,
+      "uptime_24h": 93.33,
       "uptime_30j": 87.1,
-      "last_check": "2026-11-01T21:40:53",
+      "last_check": "2026-11-01T21:50:53",
       "plan": "demo"
     },
     {
@@ -48,9 +48,9 @@
       "http": 200,
       "response_ms": 183,
       "ssl_days": 60,
-      "uptime_24h": 93.22,
+      "uptime_24h": 93.33,
       "uptime_30j": 87.03,
-      "last_check": "2026-11-01T21:40:53",
+      "last_check": "2026-11-01T21:50:53",
       "plan": "demo"
     }
   ]
