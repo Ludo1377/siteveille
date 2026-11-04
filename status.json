@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:30:38",
+  "generated_at": "2026-11-04T04:40:37",
   "sites": [
     {
       "id": "reparsite",
@@ -7,11 +7,11 @@
       "url": "https://www.reparsite.com",
       "status": "up",
       "http": 200,
-      "response_ms": 49792,
+      "response_ms": 52648,
       "ssl_days": null,
-      "uptime_24h": 89.29,
-      "uptime_30j": 86.56,
-      "last_check": "2026-11-04T04:30:38",
+      "uptime_24h": 89.66,
+      "uptime_30j": 86.57,
+      "last_check": "2026-11-04T04:40:37",
       "plan": "demo"
     },
     {
@@ -22,22 +22,22 @@
       "http": null,
       "response_ms": null,
       "ssl_days": null,
-      "uptime_24h": 96.43,
-      "uptime_30j": 87.84,
-      "last_check": "2026-11-04T04:30:38",
+      "uptime_24h": 93.1,
+      "uptime_30j": 87.82,
+      "last_check": "2026-11-04T04:40:37",
       "plan": "demo"
     },
     {
       "id": "fellaphone",
       "nom": "Fella Phone Academy",
       "url": "https://fellaphone-academy.fr",
-      "status": "up",
-      "http": 200,
-      "response_ms": 23995,
-      "ssl_days": 47,
-      "uptime_24h": 100.0,
-      "uptime_30j": 87.78,
-      "last_check": "2026-11-04T04:30:38",
+      "status": "down",
+      "http": null,
+      "response_ms": null,
+      "ssl_days": null,
+      "uptime_24h": 96.55,
+      "uptime_30j": 87.75,
+      "last_check": "2026-11-04T04:40:37",
       "plan": "demo"
     },
     {
@@ -46,11 +46,11 @@
       "url": "https://smartech-repair.fr",
       "status": "up",
       "http": 200,
-      "response_ms": 40737,
+      "response_ms": 43519,
       "ssl_days": 58,
-      "uptime_24h": 96.43,
-      "uptime_30j": 87.68,
-      "last_check": "2026-11-04T04:30:38",
+      "uptime_24h": 96.55,
+      "uptime_30j": 87.69,
+      "last_check": "2026-11-04T04:40:37",
       "plan": "demo"
     }
   ]
